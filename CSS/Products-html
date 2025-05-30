@@ -1,0 +1,57 @@
+<style>
+    ul {
+        list-style-type: none;
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+
+    li {
+        margin: 12px;
+        text-align: center;
+        padding: 12px;
+        margin: 12px;
+        box-shadow:0 0 10px;color: #4c3f59;
+    }
+    a{ 
+        background-color: rgba(229, 245, 4, 0.744);
+    }
+</style>
+
+<ul>
+    <li>
+        <b>Veg-Food</b>
+        <br>
+        <a href="grb residency.html"></a>
+
+        <img src="RAKESH PIC.jpg" alt="Curd Rice" width="200" height="200">
+
+        <br>
+        <p>Thise is the decription of the Product</p>
+        <a href="">Add to cart</a>
+    </li>
+    <li>
+        <b>Veg-Food</b>
+        <br>
+        <a href="grb residency.html"></a>
+
+        <img src="RAKESH PIC.jpg" alt="Curd Rice" width="200" height="200">
+
+        <br>
+        <p>Thise is the decription of the Product</p>
+        <a href="">Add to cart</a>
+    </li>
+    <li>
+        <b>Veg-Food</b>
+        <br>
+        <a href="grb residency.html"></a>
+
+        <img src="RAKESH PIC.jpg" alt="Curd Rice" width="200" height="200">
+
+        <br>
+        <p>Thise is the decription of the Product</p>
+        <a href="">Add to cart</a>
+    </li>
+</ul>
+
+
+         
